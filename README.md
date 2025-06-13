@@ -1,4 +1,4 @@
-🌸🌼🌺 **Hi! I'm Amy Marie González** 🌺🌼🌸
+🌺 **Hi! I'm Amy Marie González** 🌺
 
 I’m a **Senior Honors Undergrad Computer Science student at the University of Central Florida** (🎓 Graduating December 2025), passionate about all things **AI/ML**, **full-stack development**, and **robotics**, with hands-on experience building impactful tools and applications.
 
