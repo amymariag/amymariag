@@ -1,16 +1,41 @@
-## Hi there 👋
+🌸🌼🌺 **Hi there! I’m Amy Marie González** 🌺🌼🌸
 
-<!--
-**amymariag/amymariag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Senior Honors Undergrad Computer Science student at the University of Central Florida** (🎓 Expected Dec 2025), passionate about all things **AI/ML**, **full-stack development**, and **robotics**, with hands-on experience building impactful tools and applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 About Me
+- 🎓 **Senior Honors Undergrad** in CS at UCF  
+- 💼 Software Engineering Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present)  
+- 🤖 Full-Stack Software Engineer  
+- 🌱 Currently exploring quantum computing & advanced data-driven simulations  
+- 📚 I love collaborating on **Node.js**, **React**, **Python**, and **Swift** projects
+
+---
+
+## 🌸 Projects
+- **SwiftPoker**  
+  Built a real-time, shared-state multiplayer poker app in **Swift** using **WebSockets** and **Figma** for UX design.  
+- **Campus Critters**  
+  A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
+- **NotionMail CLI**  
+  Node.js tool to send “emails” via Notion: CLI input → Notion database pages.  
+- **DesignFlow Mirror**  
+  Mobile companion app in **Swift/Kotlin/C++** + **WebAssembly** for real-time design file rendering.  
+- **Concert Compass**  
+  A full-stack event finder with React frontend, Node.js backend, and Spotify API integrations.
+
+---
+
+## 🌼 Skills & Tools
+**Languages:** Java · Python · JavaScript · Swift · C/C++ · SQL · Go  
+**Frameworks & Libraries:** React · Node.js · Spring Boot · Flask · WebSocket · Kubernetes  
+**DevOps & Cloud:** Docker · AWS · Firebase (FCM) · Git · Linux/Unix  
+**Design & Collaboration:** Figma · Tailwind CSS · CI/CD · Agile/Scrum
+
+---
+
+## 🌺 Let’s Connect
+- 📫 **Email:** [amymariag217@gmail.com](mailto:amymariag217@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/amymariegonzalez](https://linkedin.com/in/amymariegonzalez)
+- 
