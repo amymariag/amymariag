@@ -1,12 +1,9 @@
-🌸🌼🌺 **Hi! My name is Amy Marie González** 🌺🌼🌸
+🌸🌼🌺 **Hi! I'm Amy Marie González** 🌺🌼🌸
 
 I’m a **Senior Honors Undergrad Computer Science student at the University of Central Florida** (🎓 Graduating December 2025), passionate about all things **AI/ML**, **full-stack development**, and **robotics**, with hands-on experience building impactful tools and applications.
 
 ## 🌷 About Me
-- 🎓 **Senior Honors Undergrad** in CS at UCF  
-- 💼 Software Engineering Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present)  
-- 🤖 Full-Stack Software Engineer
-- 🌱 Currently exploring machine learning with scikit-learn and building applications with Spring Boot and PostgreSQL
+I am a fourth-year Honors Computer Science Undergraduate Student at the University of Central Florida graduating in December 2025. I am currently a Software Engineering Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present). I am currently exploring machine learning with scikit-learn and building applications with Spring Boot and PostgreSQL.
   
 ## 🌸 Recent Projects
 - **SwiftPoker**  
