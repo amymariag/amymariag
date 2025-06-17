@@ -1,4 +1,4 @@
-🌺 **Hi! I'm Amy Marie González** 🌺
+**Hi! I'm Amy Marie González**
 
 ## 🌷 About Me
 I am a fourth-year Honors Computer Science Undergraduate Student at the University of Central Florida graduating in December 2025. I am currently a Software Engineering Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present). I am currently exploring machine learning with scikit-learn and building applications with Spring Boot and PostgreSQL.
