@@ -14,7 +14,7 @@ My name is Amy González and I am a fourth-year Honors Computer Science Undergra
   A full-stack event finder with React frontend, Node.js backend, and Spotify API integrations.
 
 ## 🌼 Skills & Tools
-**Languages:** Java · Python · JavaScript · Swift · C/C++ · SQL · Go  
+**Languages:** Java · Python · JavaScript · Swift · C/C++ · SQL · Go and Electron  
 **Frameworks & Libraries:** React · Node.js · Spring Boot · Flask · WebSocket · Kubernetes  
 **DevOps & Cloud:** Docker · AWS · Firebase (FCM) · Git · Linux/Unix  
 **Design & Collaboration:** Figma · Tailwind CSS · CI/CD · Agile/Scrum
