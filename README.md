@@ -3,14 +3,11 @@ My name is Amy González and I am a fourth-year Honors Computer Science Undergra
   
 ## Recent Projects
 
-- **MindMove**
+- **MindMove**  - 
   A Micro-Activity Wellness App built using Swift, SwiftUI, HealthKit, WatchKit, CoreMotion, Figma. iOS and Apple Watch app that encourages short movement breaks throughout the day by detecting sedentary patterns via HealthKit and CoreMotion; delivered gentle haptic reminders and tracked streaks through a minimalist SwiftUI interface.
-- **Campus Critters**  
-  A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
-- **NotionMail CLI**  
-  Node.js tool to send “emails” via Notion: CLI input → Notion database pages.   
-- **Concert Compass**  
-  A full-stack event finder with React frontend, Node.js backend, and Spotify API integrations.
+- **Campus Critters**  - A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
+- **NotionMail CLI**  - Node.js tool to send “emails” via Notion: CLI input → Notion database pages.   
+- **Concert Compass**  - A full-stack event finder with React frontend, Node.js backend, and Spotify API integrations.
 
 ## Skills & Tools
 **Languages:** Java · Python · JavaScript · Swift · C/C++ · SQL · Go and Electron  
