@@ -4,7 +4,7 @@ My name is Amy González and I am a fourth-year Honors Computer Science Undergra
 ## Recent Projects
 
 - **MindMove**
-    - A Micro-Activity Wellness App built using Swift, SwiftUI, HealthKit, WatchKit, CoreMotion, Figma. iOS and Apple Watch app that encourages short movement breaks throughout the day by detecting sedentary patterns via HealthKit and CoreMotion; delivered gentle haptic reminders and tracked streaks through a minimalist SwiftUI interface.
+  A Micro-Activity Wellness App built using Swift, SwiftUI, HealthKit, WatchKit, CoreMotion, Figma. iOS and Apple Watch app that encourages short movement breaks throughout the day by detecting sedentary patterns via HealthKit and CoreMotion; delivered gentle haptic reminders and tracked streaks through a minimalist SwiftUI interface.
 - **Campus Critters**  
   A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
 - **NotionMail CLI**  
