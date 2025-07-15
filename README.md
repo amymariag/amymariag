@@ -2,14 +2,11 @@
 My name is Amy González and I am a fourth-year Honors Computer Science Undergraduate Student at the University of Central Florida graduating in December 2025. I am currently a Software Engineer Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present). I am currently exploring machine learning with scikit-learn and building applications with Spring Boot and PostgreSQL.
   
 ## Recent Projects
-- **BattleSwift**  
-  Built a real-time, shared-state battleship multiplayer app in **Swift** using **WebSockets** and **Figma** for UX design.  
+ 
 - **Campus Critters**  
   A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
 - **NotionMail CLI**  
-  Node.js tool to send “emails” via Notion: CLI input → Notion database pages.  
-- **DesignFlow Mirror**  
-  Mobile companion app in **Swift/Kotlin/C++** + **WebAssembly** for real-time design file rendering.  
+  Node.js tool to send “emails” via Notion: CLI input → Notion database pages.   
 - **Concert Compass**  
   A full-stack event finder with React frontend, Node.js backend, and Spotify API integrations.
 
