@@ -2,7 +2,8 @@
 My name is Amy González and I am a fourth-year Honors Computer Science Undergraduate Student at the University of Central Florida graduating in December 2025. I am currently a Software Engineer Intern @ Tesla (May 2024 – Aug 2024, May 2025 – Present). I am currently exploring machine learning with scikit-learn and building applications with Spring Boot and PostgreSQL.
   
 ## Recent Projects
- 
+
+- **MindMove** Micro-Activity Wellness App built using Swift, SwiftUI, HealthKit, WatchKit, CoreMotion, Figma. iOS and Apple Watch app that encourages short movement breaks throughout the day by detecting sedentary patterns via HealthKit and CoreMotion; delivered gentle haptic reminders and tracked streaks through a minimalist SwiftUI interface.
 - **Campus Critters**  
   A MERN + Flutter app tracking campus wildlife sightings, featuring geospatial maps & personalized AI recommendations.  
 - **NotionMail CLI**  
