@@ -11,7 +11,7 @@ My name is Amy González and I am a fourth-year Honors Computer Science Undergra
 
 ## Skills & Tools
 **Languages:** Java · Python · JavaScript · Swift · C/C++ · SQL · Go and Electron  
-**Frameworks & Libraries:** React · Node.js · Spring Boot · Flask · WebSocket · Kubernetes  
+**Frameworks & Libraries:** React · Node.js · Spring Boot · Flutter · WebSocket · Kubernetes  
 **DevOps & Cloud:** Docker · AWS · Firebase (FCM) · Git · Linux/Unix  
 **Design & Collaboration:** Figma · Tailwind CSS · CI/CD · Agile/Scrum
 
